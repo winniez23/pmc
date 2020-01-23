@@ -1,6 +1,7 @@
 # pmc
 
 [PENGUMPULAN TUGAS]
+
 Silakan kumpulkan tugas/kuis di git https://github.com/ramadhitau/pmc.git
 Anda bisa mengumpulkan tugas dengan cara remote (langsung dari pc anda, menggunakan command prompt)
 
@@ -9,6 +10,7 @@ Step:
 contoh:
 saya ingin menaruh git saya di 
 ->D:\Semester 6\PMC
+
 cara clone:
 D:\Semester 6\PMC\git clone https://github.com/ramadhitau/pmc.git
 
