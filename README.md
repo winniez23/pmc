@@ -1,7 +1,7 @@
 # pmc
 
 [PENGUMPULAN TUGAS]
-Silakan kumpulkan tugas/kuis di git https://gitlab.com/ramadhita/pmc.git
+Silakan kumpulkan tugas/kuis di git https://github.com/ramadhitau/pmc.git
 Anda bisa mengumpulkan tugas dengan cara remote (langsung dari pc anda, menggunakan command prompt)
 
 Step:
@@ -10,7 +10,7 @@ contoh:
 saya ingin menaruh git saya di 
 ->D:\Semester 6\PMC
 cara clone:
-D:\Semester 6\PMC\git clone https://gitlab.com/ramadhita/pmc.git
+D:\Semester 6\PMC\git clone https://github.com/ramadhitau/pmc.git
 
 2. Untuk memastikan anda mengambil file terbaru, lakukan git fetch kemudian git pull
 3. Buat folder nama kalian masing-masing, kemudian but folder lagi untuk setiap tugas/kuis. Setelah itu baru masukkan file kode C dan flowchartnya
