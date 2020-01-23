@@ -6,8 +6,12 @@ Silakan kumpulkan tugas/kuis di git https://github.com/ramadhitau/pmc.git
 Anda bisa mengumpulkan tugas dengan cara remote (langsung dari pc anda, menggunakan command prompt)
 
 Step:
+
+0. Sebelum melakukan serangkaian step di bawah ini, pastikan kalian sudah punya git Bashnya terlebih dahulu di pc kalian. Silakan download terlebih dahulu di internet sesuai dengan jenis OS kalian
+
 1. Clone git ke dalam folder yang kalian inginkan di pc Anda
 contoh:
+
 saya ingin menaruh git saya di 
 ->D:\Semester 6\PMC
 
