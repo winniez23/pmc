@@ -21,7 +21,7 @@ Contoh bisa dilihat di folder Ramadhita-18317008
  3) ->git status (melihat folder kalian sendiri)
  4) ->git add (masukkan yang ingin kalian masukkan, bisa juga menggunakan ->git add . )
  5) ->git commit -m "(comment kalian disini)
- 6)->git push
+ 6) ->git push
 
 Selesai~
 
